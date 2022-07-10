@@ -1,0 +1,11 @@
+StudentProfile:
+pNumber=P2411380
+studentName= Name:[firstName=Jahleel, familyName=Cova]
+email=Shshsh
+date=2020-05-08
+
+course=Course:[courseName=Computer Science, modules={IMAT3423=IMAT3423 : Systems Building: Methods, IMAT3104=IMAT3104 : Database Management and Programming, IMAT3611=IMAT3611 : Computer Ethics and Privacy, IMAT3613=IMAT3613 : Data Mining, IMAT3614=IMAT3614 : Big Data and Business Models, IMAT3406=IMAT3406 : Fuzzy Logic and Knowledge Based Systems, IMAT3428=IMAT3428 : Information Technology Services Practice, CTEC3451=CTEC3451 : Development Project, CTEC3110=CTEC3110 : Secure Web Application Development, CTEC3410=CTEC3410 : Web Application Penetration Testing, CTEC3902=CTEC3902 : Rigorous Systems, CTEC3605=CTEC3605 : Multi-service Networks 1, CTEC3606=CTEC3606 : Multi-service Networks 2, CTEC3904=CTEC3904 : Functional Software Development, CTEC3905=CTEC3905 : Front-End Web Development, CTEC3906=CTEC3906 : Interaction Design}]
+
+	selectedModules=[CTEC3410 : Web Application Penetration Testing, CTEC3451 : Development Project, CTEC3904 : Functional Software Development, IMAT3406 : Fuzzy Logic and Knowledge Based Systems, IMAT3423 : Systems Building: Methods, IMAT3613 : Data Mining, IMAT3614 : Big Data and Business Models]
+
+	reservedModules=[CTEC3110 : Secure Web Application Development, CTEC3902 : Rigorous Systems, CTEC3905 : Front-End Web Development, IMAT3611 : Computer Ethics and Privacy]
